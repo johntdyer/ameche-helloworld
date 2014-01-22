@@ -1,0 +1,22 @@
+{
+  "name": "helloworld",
+  "version": "0.0.1",
+  "description": "Most Amazing App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:johntdyer/ameche-helloworld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johntdyer/ameche-helloworld/issues"
+  },
+  "homepage": "https://github.com/johntdyer/ameche-helloworld",
+  "ameche": {
+    "uuid": "405c9d32-bae0-4bb6-9e0d-3bf8df485ed9"
+  }
+}
